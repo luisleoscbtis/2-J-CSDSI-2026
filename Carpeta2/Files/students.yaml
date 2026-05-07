@@ -1,0 +1,211 @@
+students:
+- email: diego.gomez.2025.test@mit.edu
+  exam: 4
+  grade: N/A
+  group: N/A
+  name: Diego Adrian Gomez Cadena
+  note: 1
+  shift: N/A
+- email: christofer.chavez.2025.test@mit.edu
+  exam: 6
+  grade: N/A
+  group: N/A
+  name: Christofer Alberto Chavez Ceja
+  note: 7
+  shift: N/A
+- email: jonathan.sandoval.2025.test@mit.edu
+  exam: 3
+  grade: N/A
+  group: N/A
+  name: Jonathan Elier Sandoval Escobedo
+  note: 1
+  shift: N/A
+- email: martin.hernandez.2025.test@mit.edu
+  exam: 7
+  grade: N/A
+  group: N/A
+  name: Martín Israel Hernández Flores
+  note: 2
+  shift: N/A
+- email: grecia.mendez.2025.test@mit.edu
+  exam: 4
+  grade: N/A
+  group: N/A
+  name: Grecia Judith Mendez Garcia
+  note: 1
+  shift: N/A
+- email: eduardo.gutierrez.2025.test@mit.edu
+  exam: 7
+  grade: N/A
+  group: N/A
+  name: Eduardo Isaac Gutierrez Gonzalez
+  note: 8
+  shift: N/A
+- email: andre.delatorre.2025.test@mit.edu
+  exam: 5
+  grade: N/A
+  group: N/A
+  name: André Luciano De la torre Gutiérrez
+  note: 1
+  shift: N/A
+- email: fatima.botello.2025.test@mit.edu
+  exam: 4
+  grade: N/A
+  group: N/A
+  name: Fátima Monserrath Botello Hernández
+  note: 1
+  shift: N/A
+- email: alfredo.aguillon.2025.test@mit.edu
+  exam: 5
+  grade: N/A
+  group: N/A
+  name: Alfredo Aguillon Jaimes
+  note: 1
+  shift: N/A
+- email: angeljavier.jauregui.2025.test@mit.edu
+  exam: 5
+  grade: N/A
+  group: N/A
+  name: Ángel Javier García Jáuregui
+  note: 7
+  shift: N/A
+- email: luis.leos.2025.test@mit.edu
+  exam: 10
+  grade: N/A
+  group: N/A
+  name: Luis Daniel Leos Macias
+  note: 10
+  shift: N/A
+- email: lyzander.rodriguez.2025.test@mit.edu
+  exam: 4
+  grade: N/A
+  group: N/A
+  name: Lyzander Gael Rodriguez Olivos
+  note: 1
+  shift: N/A
+- email: cesar.vazquez.2025.test@mit.edu
+  exam: 3
+  grade: N/A
+  group: N/A
+  name: Cesar Gael Vazquez Perez
+  note: 1
+  shift: N/A
+- email: vanesa.carrero.2025.test@mit.edu
+  exam: 3
+  grade: N/A
+  group: N/A
+  name: Vanesa Jacqueline Carrero Quezada
+  note: 2
+  shift: N/A
+- email: diego.torres.2025.test@mit.edu
+  exam: 4
+  grade: N/A
+  group: N/A
+  name: Diego Uriel Torres Rincon
+  note: 1
+  shift: N/A
+- email: axel.cordero.2025.test@mit.edu
+  exam: 6
+  grade: N/A
+  group: N/A
+  name: Axel Antonio Cordero Rojas
+  note: 7
+  shift: N/A
+- email: diego.marquez.2025.test@mit.edu
+  exam: 4
+  grade: N/A
+  group: N/A
+  name: Diego Emir Marquez Ronco
+  note: 1
+  shift: N/A
+- email: andrea.ramirez.2025.test@mit.edu
+  exam: 6
+  grade: N/A
+  group: N/A
+  name: Andrea Naomi Ramirez Santos
+  note: 5
+  shift: N/A
+- email: cristian.gutierrez.2025.test@mit.edu
+  exam: 5
+  grade: N/A
+  group: N/A
+  name: Cristian Josue Gutierrez Soltero
+  note: 1
+  shift: N/A
+- email: braulio.virgen.2025.test@mit.edu
+  exam: 2
+  grade: N/A
+  group: N/A
+  name: Braulio Aldair Virgen Torres
+  note: 1
+  shift: N/A
+- email: sundury.virgen.2025.test@mit.edu
+  exam: 5
+  grade: N/A
+  group: N/A
+  name: Sundury Mairim Virgen Vazquez
+  note: 4
+  shift: N/A
+- email: pablo.torres.2025.test@mit.edu
+  exam: 0
+  grade: N/A
+  group: N/A
+  name: pablo tadeo torres alvarado
+  note: 0
+  shift: N/A
+- email: jose.gonzalez.2025.test@mit.edu
+  exam: 0
+  grade: N/A
+  group: N/A
+  name: jose luis gonzalez gomez
+  note: 0
+  shift: N/A
+- email: angel.depaz.2025.test@mit.edu
+  exam: 4
+  grade: N/A
+  group: N/A
+  name: angel israel de paz jimenez
+  note: 1
+  shift: N/A
+- email: irving.falcon.2025.test@mit.edu
+  exam: 4
+  grade: N/A
+  group: N/A
+  name: irving david falcon loyo
+  note: 1
+  shift: N/A
+- email: aldo.hurtado.2025.test@mit.edu
+  exam: 1
+  grade: N/A
+  group: N/A
+  name: aldo hassay hurtado luna
+  note: 1
+  shift: N/A
+- email: raul.huerta.2025.test@mit.edu
+  exam: 6
+  grade: N/A
+  group: N/A
+  name: raul salvador huerta pulido
+  note: 1
+  shift: N/A
+- email: jorge.flores.2025.test@mit.edu
+  exam: 0
+  grade: N/A
+  group: N/A
+  name: jorge lionel flores reynoso
+  note: 0
+  shift: N/A
+- email: rodriguez hector.martinez.2025.test@mit.edu
+  exam: 0
+  grade: N/A
+  group: N/A
+  name: hector everardo martinez rodriguez
+  note: 0
+  shift: N/A
+- email: jose.guzman.2025.test@mit.edu
+  exam: 4
+  grade: N/A
+  group: N/A
+  name: jose julian guzman zarate
+  note: 1
+  shift: N/A

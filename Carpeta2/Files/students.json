@@ -1,0 +1,274 @@
+{
+    "students": [
+        {
+            "name": "Diego Adrian Gomez Cadena",
+            "email": "diego.gomez.2025.test@mit.edu",
+            "exam": 4,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Christofer Alberto Chavez Ceja",
+            "email": "christofer.chavez.2025.test@mit.edu",
+            "exam": 6,
+            "note": 7,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Jonathan Elier Sandoval Escobedo",
+            "email": "jonathan.sandoval.2025.test@mit.edu",
+            "exam": 3,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Martín Israel Hernández Flores",
+            "email": "martin.hernandez.2025.test@mit.edu",
+            "exam": 7,
+            "note": 2,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Grecia Judith Mendez Garcia",
+            "email": "grecia.mendez.2025.test@mit.edu",
+            "exam": 4,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Eduardo Isaac Gutierrez Gonzalez",
+            "email": "eduardo.gutierrez.2025.test@mit.edu",
+            "exam": 7,
+            "note": 8,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "André Luciano De la torre Gutiérrez",
+            "email": "andre.delatorre.2025.test@mit.edu",
+            "exam": 5,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Fátima Monserrath Botello Hernández",
+            "email": "fatima.botello.2025.test@mit.edu",
+            "exam": 4,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Alfredo Aguillon Jaimes",
+            "email": "alfredo.aguillon.2025.test@mit.edu",
+            "exam": 5,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Ángel Javier García Jáuregui",
+            "email": "angeljavier.jauregui.2025.test@mit.edu",
+            "exam": 5,
+            "note": 7,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Luis Daniel Leos Macias",
+            "email": "luis.leos.2025.test@mit.edu",
+            "exam": 10,
+            "note": 10,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Lyzander Gael Rodriguez Olivos",
+            "email": "lyzander.rodriguez.2025.test@mit.edu",
+            "exam": 4,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Cesar Gael Vazquez Perez",
+            "email": "cesar.vazquez.2025.test@mit.edu",
+            "exam": 3,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Vanesa Jacqueline Carrero Quezada",
+            "email": "vanesa.carrero.2025.test@mit.edu",
+            "exam": 3,
+            "note": 2,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Diego Uriel Torres Rincon",
+            "email": "diego.torres.2025.test@mit.edu",
+            "exam": 4,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Axel Antonio Cordero Rojas",
+            "email": "axel.cordero.2025.test@mit.edu",
+            "exam": 6,
+            "note": 7,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Diego Emir Marquez Ronco",
+            "email": "diego.marquez.2025.test@mit.edu",
+            "exam": 4,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Andrea Naomi Ramirez Santos",
+            "email": "andrea.ramirez.2025.test@mit.edu",
+            "exam": 6,
+            "note": 5,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Cristian Josue Gutierrez Soltero",
+            "email": "cristian.gutierrez.2025.test@mit.edu",
+            "exam": 5,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Braulio Aldair Virgen Torres",
+            "email": "braulio.virgen.2025.test@mit.edu",
+            "exam": 2,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "Sundury Mairim Virgen Vazquez",
+            "email": "sundury.virgen.2025.test@mit.edu",
+            "exam": 5,
+            "note": 4,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "pablo tadeo torres alvarado",
+            "email": "pablo.torres.2025.test@mit.edu",
+            "exam": 0,
+            "note": 0,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "jose luis gonzalez gomez",
+            "email": "jose.gonzalez.2025.test@mit.edu",
+            "exam": 0,
+            "note": 0,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "angel israel de paz jimenez",
+            "email": "angel.depaz.2025.test@mit.edu",
+            "exam": 4,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "irving david falcon loyo",
+            "email": "irving.falcon.2025.test@mit.edu",
+            "exam": 4,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "aldo hassay hurtado luna",
+            "email": "aldo.hurtado.2025.test@mit.edu",
+            "exam": 1,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "raul salvador huerta pulido",
+            "email": "raul.huerta.2025.test@mit.edu",
+            "exam": 6,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "jorge lionel flores reynoso",
+            "email": "jorge.flores.2025.test@mit.edu",
+            "exam": 0,
+            "note": 0,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "hector everardo martinez rodriguez",
+            "email": "rodriguez hector.martinez.2025.test@mit.edu",
+            "exam": 0,
+            "note": 0,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        },
+        {
+            "name": "jose julian guzman zarate",
+            "email": "jose.guzman.2025.test@mit.edu",
+            "exam": 4,
+            "note": 1,
+            "grade": "N/A",
+            "group": "N/A",
+            "shift": "N/A"
+        }
+    ]
+}

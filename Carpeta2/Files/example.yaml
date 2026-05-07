@@ -1,0 +1,17 @@
+students:
+  - id: 1
+    name: Franco Garcia David Alejandro
+    email: david.franco.2025.tmp@mit.edu
+    exam: 5
+    note: 1
+    grade: 2
+    group: I
+    shift: V
+  - id: 2
+    name: 
+    email: 
+    exam: 
+    note: 
+    grade: 
+    group: 
+    shift: 

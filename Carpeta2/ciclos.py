@@ -1,6 +1,6 @@
 #Nombre:Luis-Daniel-Leos-Macias
 #Grupo:2-J
-#Fecha:11-3-26
+#Fecha:11-3-2026
 #Metodo que evalua el porcentaje de un alumno
 def evaluar_calificacion():
 	porcentaje=float(input("ingresa el porcentaje del alumno: "))

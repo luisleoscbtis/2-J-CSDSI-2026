@@ -1,0 +1,15 @@
+{
+    "students" : [
+        {
+            "name" : "Franco Garcia David Alejandro",
+            "email" : "david.franco.2025.tmp@mit.edu",
+            "exam" : 5,
+            "note" : 1,
+            "grade" : 2,
+            "group" : "I",
+            "shift" : "V"
+        },
+        {}
+    ]
+
+}

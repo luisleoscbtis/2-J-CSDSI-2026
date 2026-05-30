@@ -1,0 +1,32 @@
+def redundant_signal_towers(x, k):
+    return 0
+def redundant_signal_towers(x, k):
+    towers = sorted(zip(x, k))
+    n = len(towers)
+
+    INF = float('inf')
+
+    left = [INF] * n
+    best = INF
+
+    # recorrido izquierda -> derecha
+    for i, (pos, strength) in enumerate(towers):
+        left[i] = best + pos
+        best = min(best, strength - pos)
+
+    right = [INF] * n
+    best = INF
+
+    # recorrido derecha -> izquierda
+    for i in range(n - 1, -1, -1):
+        pos, strength = towers[i]
+        right[i] = best - pos
+        best = min(best, strength + pos)
+
+    ans = 0
+
+    for i, (pos, strength) in enumerate(towers):
+        if min(left[i], right[i]) <= strength:
+            ans += 1
+
+    return ans
